@@ -4,6 +4,9 @@ Products
     - name, description, photo, price, category
 
 
-
+Users :
+    - admin : create/deactivate users, create/activate categories
+    - supervisor : agree for product publish/edit 
+    - editor : enter new products, can edit/activate his/her products
 
     
