@@ -1,7 +1,9 @@
 Product Categories
     - name, description
 Products
-    - name, description, photo, price
+    - name, description, photo, price, category
+
+
 
 
     
